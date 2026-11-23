@@ -1,12 +1,8 @@
-Deckhand 1.0.0: the first release.
+Deckhand 1.0.1
 
-- Fourteen card games that never go online.
-- Patience: Solitaire with one or three cards turned, FreeCell, Spider with one, two or four suits, and TriPeaks, with deals that can be won, unlimited undo, hints and a deal of the day.
-- At the card table: Texas Hold'em, Three Card Brag, Hearts, Whist, Rummy, Gin Rummy, Crazy Eights, Pontoon, Blackjack and Snap, against twenty-five named computer players at five levels.
-- Play with friends on up to four phones over the same Wi-Fi, a hotspot, a direct Wi-Fi link or Bluetooth, with locked cards so nobody can see another player's hand. The computer fills empty seats.
-- Send Deckhand to a friend by Quick Share or Bluetooth, or from your phone to theirs over Wi-Fi.
-- Classic and modern card faces, a four-colour pack, four card backs, five table colours and smooth animation.
+- **Easier to see who is still in.** In Texas Hold'em and Three Card Brag, a player who runs out of chips moves to the far right of the players along the top, greyed out, with the most recent player out first. The players still in stay on the left in their seats, so you can see who has chips without scrolling.
+- Your saved games carry on as before and get the new order too. When playing with friends, every phone at the table needs this version.
 
-**To install:** download `Deckhand.apk`, open it, and allow your browser or Files app to install it if Android asks. Android 8 or later.
+**To install:** download `Deckhand.apk` and open it. It installs over 1.0.0 and keeps your games, stats and settings. Android 8 or later.
 
 Website: https://customgpter.github.io/deckhand/
